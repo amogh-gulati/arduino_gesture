@@ -4,6 +4,7 @@ const int trigPin1=7;
 const int trigPin2=10;
 const int trigPin3=11;
 const int led = 3;
+//echo pins
 const int echoPin1=6;
 const int echoPin2=9;
 const int echoPin3=12;
